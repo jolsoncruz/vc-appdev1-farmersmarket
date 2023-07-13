@@ -1,0 +1,36 @@
+﻿<Window x:Class="FarmersMarket.Admin"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FarmersMarket"
+        mc:Ignorable="d"
+        Title="Admin" Height="470" Width="800">
+    <Grid>
+        <Label x:Name="lbl_Admin" Content="🧺 Farmers' Market (Admin)" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" FontSize="20"/>
+
+        <ListView x:Name="grid_Products" ItemsSource="{Binding products}" SelectionChanged="grid_Products_Selection" Margin="246,71,26,30">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn DisplayMemberBinding="{Binding _name}" Header="Product Name" Width="100"/>
+                    <GridViewColumn DisplayMemberBinding="{Binding _id}" Header="Product ID" Width="100"/>
+                    <GridViewColumn DisplayMemberBinding="{Binding _stock}" Header="Stock (kg)" Width="100"/>
+                    <GridViewColumn DisplayMemberBinding="{Binding _price}" Header="Price (CAD) /kg" Width="100"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+
+        <Label x:Name="lbl_Name" Content="Product Name:" HorizontalAlignment="Left" Margin="10,71,0,0" VerticalAlignment="Top" Width="100" FontWeight="Bold"/>
+        <Label x:Name="lbl_ID" Content="Product ID:" HorizontalAlignment="Left" Margin="10,143,0,0" VerticalAlignment="Top" Width="100" FontWeight="Bold"/>
+        <Label x:Name="lbl_Amount" Content="Amount (kg):" HorizontalAlignment="Left" Margin="10,219,0,0" VerticalAlignment="Top" Width="100" FontWeight="Bold"/>
+        <Label x:Name="lbl_Price" Content="Price (CAD) /kg" HorizontalAlignment="Left" Margin="10,291,0,0" VerticalAlignment="Top" Width="100" FontWeight="Bold"/>
+        <TextBox x:Name="input_Name" HorizontalAlignment="Left" Margin="15,102,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="211" Height="25" VerticalContentAlignment="Center" Background="#FFECDEDE"/>
+        <TextBox x:Name="input_ID" HorizontalAlignment="Left" Margin="15,174,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="211" Height="25" VerticalContentAlignment="Center" Background="#FFECDEDE"/>
+        <TextBox x:Name="input_Amount" HorizontalAlignment="Left" Margin="15,250,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="211" Height="25" VerticalContentAlignment="Center" Background="#FFECDEDE"/>
+        <TextBox x:Name="input_Price" HorizontalAlignment="Left" Margin="15,322,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="211" Height="25" VerticalContentAlignment="Center" Background="#FFECDEDE"/>
+        <Button x:Name="btn_Add" Content="Add" HorizontalAlignment="Left" Margin="15,378,0,0" VerticalAlignment="Top" Width="56" Height="25" Click="btn_Add_Click"/>
+        <Button x:Name="btn_Update" Content="Update" HorizontalAlignment="Left" Margin="92,378,0,0" VerticalAlignment="Top" Width="56" Height="25" Click="btn_Update_Click"/>
+        <Button x:Name="btn_Delete" Content="Delete" HorizontalAlignment="Left" Margin="170,378,0,0" VerticalAlignment="Top" Width="56" Height="25" Click="btn_Delete_Click"/>
+
+    </Grid>
+</Window>
