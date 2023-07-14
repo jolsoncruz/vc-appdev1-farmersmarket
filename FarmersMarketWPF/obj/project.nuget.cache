@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Wn5VCaCCMAppIXD3BZ3yjEcD1dhRivHEXaMgl/AfvbiBMmAcpdlhNMyzL5mhzvi7tvp3FHCOCk8C037B0eJBSw==",
+  "dgSpecHash": "KiC9nCbeNrL9dShgRIhHhF7m0iIKoX6dYigukdl3twOgNX/gmRW63UYB0w1wubRN8DOuH1jPz168DSEa1kKOWw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\me\\source\\repos\\vc-appdev1-farmersmarket\\FarmersMarket\\FarmersMarket.csproj",
+  "projectFilePath": "C:\\Users\\me\\source\\repos\\vc-appdev1-farmersmarket\\FarmersMarketWPF\\FarmersMarket.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\me\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\me\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",
