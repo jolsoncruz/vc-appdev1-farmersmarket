@@ -121,6 +121,12 @@ C:\Users\me\source\repos\vc-appdev1-farmersmarket\FarmersMarket\obj\Debug\net6.0
 C:\Users\me\source\repos\vc-appdev1-farmersmarket\FarmersMarket\obj\Debug\net6.0-windows\Views\Sales.g.cs
 C:\Users\me\source\repos\vc-appdev1-farmersmarket\FarmersMarket\obj\Debug\net6.0-windows\Views\Admin.baml
 C:\Users\me\source\repos\vc-appdev1-farmersmarket\FarmersMarket\obj\Debug\net6.0-windows\Views\Sales.baml
+C:\Users\me\source\repos\vc-appdev1-farmersmarket\FarmersMarketWPF\bin\Debug\net6.0-windows\NUnit3.TestAdapter.dll
+C:\Users\me\source\repos\vc-appdev1-farmersmarket\FarmersMarketWPF\bin\Debug\net6.0-windows\NUnit3.TestAdapter.pdb
+C:\Users\me\source\repos\vc-appdev1-farmersmarket\FarmersMarketWPF\bin\Debug\net6.0-windows\nunit.engine.dll
+C:\Users\me\source\repos\vc-appdev1-farmersmarket\FarmersMarketWPF\bin\Debug\net6.0-windows\nunit.engine.api.dll
+C:\Users\me\source\repos\vc-appdev1-farmersmarket\FarmersMarketWPF\bin\Debug\net6.0-windows\nunit.engine.core.dll
+C:\Users\me\source\repos\vc-appdev1-farmersmarket\FarmersMarketWPF\bin\Debug\net6.0-windows\testcentric.engine.metadata.dll
 C:\Users\me\source\repos\vc-appdev1-farmersmarket\FarmersMarketWPF\bin\Debug\net6.0-windows\FarmersMarket.exe
 C:\Users\me\source\repos\vc-appdev1-farmersmarket\FarmersMarketWPF\bin\Debug\net6.0-windows\FarmersMarket.deps.json
 C:\Users\me\source\repos\vc-appdev1-farmersmarket\FarmersMarketWPF\bin\Debug\net6.0-windows\FarmersMarket.runtimeconfig.json
@@ -135,6 +141,7 @@ C:\Users\me\source\repos\vc-appdev1-farmersmarket\FarmersMarketWPF\bin\Debug\net
 C:\Users\me\source\repos\vc-appdev1-farmersmarket\FarmersMarketWPF\bin\Debug\net6.0-windows\MongoDB.Driver.Core.dll
 C:\Users\me\source\repos\vc-appdev1-farmersmarket\FarmersMarketWPF\bin\Debug\net6.0-windows\MongoDB.Driver.GridFS.dll
 C:\Users\me\source\repos\vc-appdev1-farmersmarket\FarmersMarketWPF\bin\Debug\net6.0-windows\MongoDB.Libmongocrypt.dll
+C:\Users\me\source\repos\vc-appdev1-farmersmarket\FarmersMarketWPF\bin\Debug\net6.0-windows\nunit.framework.dll
 C:\Users\me\source\repos\vc-appdev1-farmersmarket\FarmersMarketWPF\bin\Debug\net6.0-windows\SharpCompress.dll
 C:\Users\me\source\repos\vc-appdev1-farmersmarket\FarmersMarketWPF\bin\Debug\net6.0-windows\Snappier.dll
 C:\Users\me\source\repos\vc-appdev1-farmersmarket\FarmersMarketWPF\bin\Debug\net6.0-windows\ZstdSharp.dll

@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\me\Source\Repos\vc-appdev1-farmersmarket\FarmersMarket\obj\Release\net6.0-windows\
+C:\Users\me\source\repos\vc-appdev1-farmersmarket\FarmersMarketWPF\obj\Release\net6.0-windows\
 FarmersMarket
 none
 false
 TRACE;RELEASE;NET;NET6_0;NETCOREAPP
-C:\Users\me\Source\Repos\vc-appdev1-farmersmarket\FarmersMarket\App.xaml
-31138065191
+C:\Users\me\source\repos\vc-appdev1-farmersmarket\FarmersMarketWPF\App.xaml
+3-1409655720
 
-7-1453216680
-2061201782935
-Admin.xaml;MainWindow.xaml;Sales.xaml;
+81414296504
+207-814731485
+MainWindow.xaml;Views\Admin.xaml;Views\Sales.xaml;
 
 True
 

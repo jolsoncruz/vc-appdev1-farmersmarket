@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FarmersMarketAPI", "Farmers
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FarmersMarket", "FarmersMarketWPF\FarmersMarket.csproj", "{5592F095-6819-4315-9F35-B32B177CB118}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FarmersMarketTest", "FarmersMarketTest\FarmersMarketTest.csproj", "{21AD0BAF-9C99-4B46-9730-B93EBF80D562}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{5592F095-6819-4315-9F35-B32B177CB118}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5592F095-6819-4315-9F35-B32B177CB118}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5592F095-6819-4315-9F35-B32B177CB118}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21AD0BAF-9C99-4B46-9730-B93EBF80D562}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21AD0BAF-9C99-4B46-9730-B93EBF80D562}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21AD0BAF-9C99-4B46-9730-B93EBF80D562}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21AD0BAF-9C99-4B46-9730-B93EBF80D562}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

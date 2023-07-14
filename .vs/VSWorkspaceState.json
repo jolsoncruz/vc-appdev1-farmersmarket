@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\FarmersMarket"
+    "\\FarmersMarketWPF",
+    "\\FarmersMarketWPF\\Models"
   ],
-  "SelectedNode": "\\FarmersMarket.sln",
+  "SelectedNode": "\\FarmersMarketWPF\\Models\\DatabaseConnection.cs",
   "PreviewInSolutionExplorer": false
 }

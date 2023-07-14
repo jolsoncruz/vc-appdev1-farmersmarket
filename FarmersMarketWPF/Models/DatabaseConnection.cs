@@ -7,7 +7,7 @@ using System.Windows;
 
 namespace FarmersMarket.Models
 {
-    class DatabaseConnection
+    public class DatabaseConnection
     {
         private static readonly string connectionUri = "mongodb+srv://2219359:QAY5VO3Xt5Te6IY2@vc-appdev.iomihxc.mongodb.net/?retryWrites=true&w=majority";
 

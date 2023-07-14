@@ -59,6 +59,14 @@
             "MongoDB.Driver.GridFS": {
               "target": "Package",
               "version": "[2.20.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.5.0, )"
             }
           },
           "imports": [

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "KiC9nCbeNrL9dShgRIhHhF7m0iIKoX6dYigukdl3twOgNX/gmRW63UYB0w1wubRN8DOuH1jPz168DSEa1kKOWw==",
+  "dgSpecHash": "pJc+ISi5j4n6gxuAsP5ju5g3TnLDhnWSU4+A/yqCxKeLz5x18W7WUCyx90j46yHDp/rJdPIvPjtJjGBTGYo3iw==",
   "success": true,
   "projectFilePath": "C:\\Users\\me\\source\\repos\\vc-appdev1-farmersmarket\\FarmersMarketWPF\\FarmersMarket.csproj",
   "expectedPackageFiles": [
@@ -15,6 +15,9 @@
     "C:\\Users\\me\\.nuget\\packages\\mongodb.driver.core\\2.20.0\\mongodb.driver.core.2.20.0.nupkg.sha512",
     "C:\\Users\\me\\.nuget\\packages\\mongodb.driver.gridfs\\2.20.0\\mongodb.driver.gridfs.2.20.0.nupkg.sha512",
     "C:\\Users\\me\\.nuget\\packages\\mongodb.libmongocrypt\\1.8.0\\mongodb.libmongocrypt.1.8.0.nupkg.sha512",
+    "C:\\Users\\me\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\me\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
+    "C:\\Users\\me\\.nuget\\packages\\nunit3testadapter\\4.5.0\\nunit3testadapter.4.5.0.nupkg.sha512",
     "C:\\Users\\me\\.nuget\\packages\\sharpcompress\\0.30.1\\sharpcompress.0.30.1.nupkg.sha512",
     "C:\\Users\\me\\.nuget\\packages\\snappier\\1.0.0\\snappier.1.0.0.nupkg.sha512",
     "C:\\Users\\me\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
